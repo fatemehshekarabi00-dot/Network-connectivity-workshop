@@ -6,7 +6,7 @@ This project is designed for learning and workshop purposes.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Host / Join flow  
 - Device discovery using Bonjour  
@@ -16,7 +16,7 @@ This project is designed for learning and workshop purposes.
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 This app demonstrates three main steps of network connectivity:
 
@@ -39,7 +39,7 @@ Messages are sent and received between devices
 
 ---
 
-## ⚠️ Important Setup (Required)
+##  Important Setup (Required)
 
 To make device discovery work, you must enable Bonjour in your app:
 
@@ -62,7 +62,7 @@ Without this step, devices will NOT be able to discover each other.
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Run the app on two or more real devices  
 2. Make sure all devices are on the same Wi-Fi network  
@@ -79,7 +79,7 @@ Then:
 
 ---
 
-## 💡 Notes
+##  Notes
 
 - This is a minimal demo for learning purposes  
 - No advanced error handling is included  
@@ -87,6 +87,6 @@ Then:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 Fatima
